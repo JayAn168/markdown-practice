@@ -1,4 +1,4 @@
-s# 제목(Header)
+# 제목(Header)
 
 # 제목 1
 
